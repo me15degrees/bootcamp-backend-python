@@ -3,7 +3,7 @@ import textwrap
 def menu(): 
     menu ="""\n
     ==============================
-    ========== Banco FB ==========
+    ========== Banco ==========
     ==============================\n
     Escolha abaixo a operação que deseja realizar!
     
